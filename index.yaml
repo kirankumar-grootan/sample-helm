@@ -9,6 +9,6 @@ entries:
     name: sample
     type: application
     urls:
-    - https://github.com/kirankumar-grootan/sample-helm/sample-0.1.0.tgz
+    - https://kirankumar-grootan.github.io/sample-helm/sample-0.1.0.tgz
     version: 0.1.0
 generated: "2025-07-16T16:49:37.244561+05:30"
