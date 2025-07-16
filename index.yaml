@@ -3,12 +3,22 @@ entries:
   sample:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-16T16:49:37.246746+05:30"
+    created: "2025-07-16T19:41:30.690106+05:30"
     description: A Helm chart for Kubernetes
-    digest: e5b6697cec8edc10982ce8ef3a3083956e0729d49770f09da0d9ef8e76ea69e8
+    digest: d8dddd93bcf4aaeff1b66dc0cc88e1dcada01102b02b09a206aa4dc6270a8b85
+    name: sample
+    type: application
+    urls:
+    - https://kirankumar-grootan.github.io/sample-helm/sample-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-16T19:41:30.690106+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d8dddd93bcf4aaeff1b66dc0cc88e1dcada01102b02b09a206aa4dc6270a8b85
     name: sample
     type: application
     urls:
     - https://kirankumar-grootan.github.io/sample-helm/sample-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-16T16:49:37.244561+05:30"
+generated: "2025-07-16T19:41:30.68913+05:30"
